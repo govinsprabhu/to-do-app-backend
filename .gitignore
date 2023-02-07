@@ -1,0 +1,8 @@
+.gradle
+.idea
+.mvn
+build.gradle
+gradle*
+mvn*
+
+
